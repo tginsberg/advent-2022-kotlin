@@ -24,6 +24,11 @@ Past years, also in Kotlin:
 * 2021 - [GitHub](https://github.com/tginsberg/advent-2021-kotlin/)
   and [Blog Posts](https://todd.ginsberg.com/post/advent-of-code/2021/)
 
+#### Daily Solution Index for 2022
+
+| Day | Title                      | Links                                                                                                                                                                                                                                            |
+|-----|:---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Calorie Counting           | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day1/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/master/src/main/kotlin/com/ginsberg/advent2022/Day01.kt) [\[AoC\]](http://adventofcode.com/2022/day/1) |
 
 Copyright &copy; 2022 by Todd Ginsberg.
 
