@@ -28,8 +28,8 @@ Past years, also in Kotlin:
 
 | Day | Title                | Links                                                                                                                                                                                                                                            |
 |-----|:---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Calorie Counting     | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day1/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/master/src/main/kotlin/com/ginsberg/advent2022/Day01.kt) [\[AoC\]](http://adventofcode.com/2022/day/1) |
-| 2   | Rock Paper Scissors  | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day2/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/master/src/main/kotlin/com/ginsberg/advent2022/Day02.kt) [\[AoC\]](http://adventofcode.com/2022/day/2) |
+| 1   | Calorie Counting     | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day1/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day01.kt) [\[AoC\]](http://adventofcode.com/2022/day/1) |
+| 2   | Rock Paper Scissors  | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day2/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day02.kt) [\[AoC\]](http://adventofcode.com/2022/day/2) |
 
 Copyright &copy; 2022 by Todd Ginsberg.
 
