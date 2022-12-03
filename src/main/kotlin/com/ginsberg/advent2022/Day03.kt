@@ -31,9 +31,7 @@ class Day03(private val input: List<String>) {
         ).sharedItem()
 
     private fun List<String>.sharedItem(): Char =
-        drop(1)
-            .fold(first().toSet()) { left, right ->
-                left intersect right.toSet()
-            }
+        map { it.toSet() }
+            .reduce { left, right -> left intersect right}
             .first()
 }
