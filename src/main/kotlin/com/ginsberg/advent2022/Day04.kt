@@ -20,7 +20,7 @@ class Day04(input: List<String>) {
         ranges.count { it.first overlaps it.second }
 
     private infix fun IntRange.fullyOverlaps(other: IntRange): Boolean =
-        first in other && last in other
+        first <= other.first && last >= other.last
 
     private infix fun IntRange.overlaps(other: IntRange): Boolean =
         first <= other.last && other.first <= last
