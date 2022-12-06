@@ -33,6 +33,7 @@ Past years, also in Kotlin:
 | 3   | Rucksack Reorganization | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day3/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day03.kt) [\[AoC\]](http://adventofcode.com/2022/day/3)                                                                          |
 | 4   | Camp Cleanup            | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day4/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day04.kt) [\[AoC\]](http://adventofcode.com/2022/day/4) [\[Live Stream Recording\]](https://www.youtube.com/watch?v=dBIbr55YS0A) |
 | 5   | Supply Stacks           | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day5/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day05.kt) [\[AoC\]](http://adventofcode.com/2022/day/5)                                                                          |
+| 6   | Tuning Trouble          | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day6/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day06.kt) [\[AoC\]](http://adventofcode.com/2022/day/6)                                                                          |
 
 Copyright &copy; 2022 by Todd Ginsberg.
 
