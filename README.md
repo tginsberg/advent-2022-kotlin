@@ -36,6 +36,7 @@ Past years, also in Kotlin:
 | 6   | Tuning Trouble          | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day6/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day06.kt) [\[AoC\]](http://adventofcode.com/2022/day/6)                                                                          |
 | 7   | No Space Left On Device | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day7/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day07.kt) [\[AoC\]](http://adventofcode.com/2022/day/7)                                                                          |
 | 8   | Treetop Tree House      | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day8/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day08.kt) [\[AoC\]](http://adventofcode.com/2022/day/8)                                                                          |
+| 9   | Rope Bridge             | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day9/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day09.kt) [\[AoC\]](http://adventofcode.com/2022/day/9)                                                                          |
 
 Copyright &copy; 2022 by Todd Ginsberg.
 
