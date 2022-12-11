@@ -38,6 +38,7 @@ Past years, also in Kotlin:
 | 8   | Treetop Tree House      | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day8/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day08.kt) [\[AoC\]](http://adventofcode.com/2022/day/8)                                                                          |
 | 9   | Rope Bridge             | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day9/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day09.kt) [\[AoC\]](http://adventofcode.com/2022/day/9)                                                                          |
 | 10  | Cathode-Ray Tube        | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day10/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day10.kt) [\[AoC\]](http://adventofcode.com/2022/day/10)                                                                        |
+| 11  | Monkey in the Middle    | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day11/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day11.kt) [\[AoC\]](http://adventofcode.com/2022/day/11)                                                                        |
 
 Copyright &copy; 2022 by Todd Ginsberg.
 
