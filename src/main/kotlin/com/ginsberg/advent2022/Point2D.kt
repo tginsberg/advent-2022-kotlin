@@ -12,6 +12,9 @@ data class Point2D(val x: Int = 0, val y: Int = 0) {
             copy(y = y + 1)
         )
 
+    fun distanceTo(other: Point2D): Int =
+        (x - other.x).absoluteValue + (y - other.y).absoluteValue
+
     fun lineTo(other: Point2D): List<Point2D> {
         val xDelta = (other.x - x).sign
         val yDelta = (other.y - y).sign

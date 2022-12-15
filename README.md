@@ -42,6 +42,7 @@ Past years, also in Kotlin:
 | 12  | Hill Climbing Algorithm | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day12/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day12.kt) [\[AoC\]](http://adventofcode.com/2022/day/12)                                                                        |
 | 13  | Distress Signal         | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day13/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day13.kt) [\[AoC\]](http://adventofcode.com/2022/day/13)                                                                        |
 | 14  | Regolith Reservoir      | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day14/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day14.kt) [\[AoC\]](http://adventofcode.com/2022/day/14)                                                                        |
+| 15  | Beacon Exclusion Zone   | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day15/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day15.kt) [\[AoC\]](http://adventofcode.com/2022/day/15)                                                                        |
 
 Copyright &copy; 2022 by Todd Ginsberg.
 
