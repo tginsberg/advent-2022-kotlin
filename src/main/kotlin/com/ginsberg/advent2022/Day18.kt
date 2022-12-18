@@ -5,7 +5,7 @@
 /**
  * Advent of Code 2022, Day 18 - Boiling Boulders
  * Problem Description: http://adventofcode.com/2022/day/18
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2022/day187/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2022/day18/
  */
 package com.ginsberg.advent2022
 
