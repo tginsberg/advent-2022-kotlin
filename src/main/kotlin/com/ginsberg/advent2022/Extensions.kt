@@ -16,7 +16,7 @@ fun Iterable<Int>.product(): Int =
     reduce { a, b -> a * b }
 
 fun List<IntRange>.reduce(): List<IntRange> =
-    if(this.size <= 1) this
+    if (this.size <= 1) this
     else {
         val sorted = this.sortedBy { it.first }
         sorted.drop(1).fold(mutableListOf(sorted.first())) { reduced, range ->
@@ -28,3 +28,6 @@ fun List<IntRange>.reduce(): List<IntRange> =
             reduced
         }
     }
+
+fun <T> List<T>.nth(n: Int): T =
+    this[n % size]
