@@ -45,6 +45,7 @@ Past years, also in Kotlin:
 | 15  | Beacon Exclusion Zone   | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day15/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day15.kt) [\[AoC\]](http://adventofcode.com/2022/day/15)                                                                        |
 | 16  | Proboscidea Volcanium   | Needs refactoring - I'll try to publish this soon                                                                                                                                                                                                                                                                       |
 | 17  | Pyroclastic Flow        | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day17/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day17.kt) [\[AoC\]](http://adventofcode.com/2022/day/17)                                                                        |
+| 18  | Boiling Boulders        | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day18/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day18.kt) [\[AoC\]](http://adventofcode.com/2022/day/18)                                                                        |
 
 Copyright &copy; 2022 by Todd Ginsberg.
 
