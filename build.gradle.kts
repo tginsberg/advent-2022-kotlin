@@ -13,6 +13,9 @@ repositories {
 }
 
 dependencies {
+    implementation("com.github.shiguruikai:combinatoricskt:1.6.0") {
+        because("I need combinations of sets for Day 16 and this was a bug-free way to do it")
+    }
     testApi("org.junit.jupiter:junit-jupiter-engine:5.9.1") {
         because("Gradle needs this to run tests")
     }
