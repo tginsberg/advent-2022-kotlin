@@ -46,6 +46,7 @@ Past years, also in Kotlin:
 | 16  | Proboscidea Volcanium   | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day16/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day16.kt) [\[AoC\]](http://adventofcode.com/2022/day/16)                                                                        |
 | 17  | Pyroclastic Flow        | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day17/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day17.kt) [\[AoC\]](http://adventofcode.com/2022/day/17)                                                                        |
 | 18  | Boiling Boulders        | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day18/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day18.kt) [\[AoC\]](http://adventofcode.com/2022/day/18)                                                                        |
+| 19  | Not Enough Minerals     | [\[Blog Post\]](https://todd.ginsberg.com/post/advent-of-code/2022/day19/) [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2022/Day19.kt) [\[AoC\]](http://adventofcode.com/2022/day/19)                                                                        |
 
 Copyright &copy; 2022 by Todd Ginsberg.
 
