@@ -10,7 +10,7 @@ import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Nested
 import org.junit.jupiter.api.Test
 
-@DisplayName("Day 19")
+@DisplayName("Day 20")
 class Day20Test {
 
     // Arrange
