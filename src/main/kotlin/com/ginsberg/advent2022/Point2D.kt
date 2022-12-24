@@ -27,6 +27,9 @@ data class Point2D(val x: Int = 0, val y: Int = 0) {
     operator fun plus(other: Point2D): Point2D =
         Point2D(this.x + other.x, this.y + other.y)
 
+    operator fun minus(other: Point2D): Point2D =
+        Point2D(this.x - other.x, this.y - other.y)
+
     fun distanceTo(other: Point2D): Int =
         (x - other.x).absoluteValue + (y - other.y).absoluteValue
 
